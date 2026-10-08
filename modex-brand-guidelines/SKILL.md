@@ -117,6 +117,11 @@ Full right-to-left layout, like international brands:
 
 ## 11. 1HQ 2026 master templates — Black Friday & digital (from the final 1HQ guideline)
 Source: D:\MODEX\MODEX REFRESHMENT WITH 1HQ\2026 guidelines\ — "280926_Modex_Guidelines_Master" and "Master Digital and Social Grid\AI files\Modex Social and Digital Master Files.ai" (24 artboards + PNG exports). Also in the MODEX Design System (asset groups "1HQ Layouts" and "1HQ Photos and Layers").
+- Files in that folder (…\Master Digital and Social Grid\Master Digital and Social Grid\AI files\), also saved in this repo under assets/1hq-2026/:
+  - "Modex Social and Digital Master Files.ai" and "… OL.ai" (OL = text outlined) — the 24-artboard masters.
+  - "Modex Social and Digital Master Files OL copy.pdf" (8 Oct 2026) — PDF of the same 24 artboards; open it to see every layout without Illustrator.
+  - MODEX logo vectors (no ®): "Asset 1.svg" = white logo at 70% opacity (for logos over photos); "Asset 2.svg" = dark grey #424143 logo with multiply blend (on light photos/backgrounds); "WHITE.svg" = white logo with thin dark outline. Use these SVGs instead of retyping or tracing the logo.
+  - PNG exports of artboards 1–23 in the sibling "PNG's" folder.
 - Rule of use: take LAYOUTS and big ideas from 1HQ; take COLOURS and FONTS from MODEX's own files (section 1–2). Never take gift-box design or brand colours from the 1HQ deck. 1HQ used turquoise (Pantone 3265 C) on everything, even kitchen — always swap in the correct category colour.
 - Formats: 2:1 banner, 3:1 wide banner, 4:3, square (photo only) and square (with caption bar) — each in a DARK / Premium version and a LIGHT / Core version.
 - Construction grid: every template sits on a fine square grid; logo, rules and text align to grid lines; text block right-aligned in the right third.
@@ -130,7 +135,7 @@ Source: D:\MODEX\MODEX REFRESHMENT WITH 1HQ\2026 guidelines\ — "280926_Modex_G
   - A thin dark/colour frame around a square is allowed for branded tiles.
 - Photo + layer method: every 1HQ master photo has a matching cut-out PNG of the product in the same position — stack photo → diagonal/text/colour shapes → product cut-out on top, so the product stands in front of the graphics. Pairs: blender (kitchen Premium), fan (home Core), hand mixer (kitchen Core), garment steamer (home), carbon heater (home Premium), stick vacuum (home). Masters: ...\2026 guidelines\Master Image Files\
 - Instagram grid plan (artboard 24): mix plain product/lifestyle photos with branded tiles (Black Friday panel, "Sale Time" card, "Recipe Time" caption, "New Release" triangle, logo triangle). Never two heavy branded tiles side by side; corner triangles keep plain photos on brand.
-- Brand band: "MODEX / MODERN EXCELLENCE" logo on white, turquoise or dark, with grey X-angle blocks and diagonal hairlines on the right — for stands, shelf strips and headers.
+- Brand band (artboards 21–23): curved shelf/stand header — "MODEX / MODERN EXCELLENCE" logo on the left on white, turquoise or dark, with grey/colour X-angle blocks and diagonal hairlines on the right; thin colour strip along the top edge.
 - House of MODEX: 1HQ's 3D villa (two floors; kitchen, bedroom, bathroom, sitting room) is the setting for lifestyle/CGI shots — Core rooms bright and daylight, Premium rooms deep and moody. 3ds Max scenes: ...\2026 guidelines\3D S Max Files\
 
 ## 12. Copy voice
